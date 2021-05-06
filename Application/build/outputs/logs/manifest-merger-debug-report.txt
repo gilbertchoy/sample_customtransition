@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:20:1-42:12
+INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:20:1-42:12
+INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:20:1-42:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/d5e6b25b5a3e2a409d2801306919032c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/6c98a77a63685f21ffddd771e5139140/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/4984067ed40f3e7cf1722c5712264f36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/f6708091e767e0bb9d628ce5659e6a5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/bee5dcc6ce8393c3b827a05eca864a92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/8fb8e98a264ba4c9af63ce649a4202c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/130a2c5d760ed5480d1dca255f0c4e36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/8ccc89d60df51e801c1abf9ccb7bfaee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/a78a5c512afd5215cf3060833bb10bbd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/7b9ed3cb1c48a6c530e1fc3a2391d115/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/f90b329ada526ff5d82f92797481cd7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/982be08f76333e86a0644af2cfb7af1e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/921d81a26c41210a4231384c7b71b94d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/efe9fee6696192b67943e51cb717af95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/5c052718f3388b6ee75707b7b1f5f63f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/a9e89de9c1a9d0ccaf08747be59aaaa3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/f9d088dec67ba94f0811d3473f4aab4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/3617020d8f694932b2af29a8d7c30f61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/8acb825ada6516e192de9604dbaae802/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/73a2a41c0803016f2a32489d405cffd8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/3fd2d8ef3ba9ca9fe28240c8680924f4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/24682a1698564d8d149df79e2ed4a379/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/94cae63d972bc571a8a9e21833f58276/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/1ef6ec6700be12a95840edb39a293ea6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/cf3218f817ab02c5364cae1a3d7e5c81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/ff6fd34749f6a27e555a31a381f878e4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/7771ef7b0c1a3d64bb9b28506aa0ea93/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/98d2b05ed8dbffa6f41813732cbeac79/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/785933a9d18985881468b90c2868b8f1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/3e886a5ab21fa5d9a651c7f219fe8b6e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:20:1-42:12
+INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:20:1-42:12
+	package
+		ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:21:5-51
+	android:versionName
+		ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:23:5-30
+		INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:22:5-28
+		INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml
+application
+ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:27:5-39:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/8acb825ada6516e192de9604dbaae802/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/8acb825ada6516e192de9604dbaae802/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/73a2a41c0803016f2a32489d405cffd8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/73a2a41c0803016f2a32489d405cffd8/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/8acb825ada6516e192de9604dbaae802/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:29:9-45
+	android:allowBackup
+		ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:27:18-44
+	android:theme
+		ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:30:9-40
+activity#com.example.android.customtransition.MainActivity
+ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:32:9-38:20
+	android:label
+		ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:33:19-51
+	android:name
+		ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:32:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/d5e6b25b5a3e2a409d2801306919032c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/d5e6b25b5a3e2a409d2801306919032c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/6c98a77a63685f21ffddd771e5139140/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/6c98a77a63685f21ffddd771e5139140/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/4984067ed40f3e7cf1722c5712264f36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/4984067ed40f3e7cf1722c5712264f36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/f6708091e767e0bb9d628ce5659e6a5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/f6708091e767e0bb9d628ce5659e6a5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/bee5dcc6ce8393c3b827a05eca864a92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/bee5dcc6ce8393c3b827a05eca864a92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/8fb8e98a264ba4c9af63ce649a4202c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/8fb8e98a264ba4c9af63ce649a4202c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/130a2c5d760ed5480d1dca255f0c4e36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/130a2c5d760ed5480d1dca255f0c4e36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/8ccc89d60df51e801c1abf9ccb7bfaee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/8ccc89d60df51e801c1abf9ccb7bfaee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/a78a5c512afd5215cf3060833bb10bbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/a78a5c512afd5215cf3060833bb10bbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/7b9ed3cb1c48a6c530e1fc3a2391d115/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/7b9ed3cb1c48a6c530e1fc3a2391d115/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/f90b329ada526ff5d82f92797481cd7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/f90b329ada526ff5d82f92797481cd7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/982be08f76333e86a0644af2cfb7af1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/982be08f76333e86a0644af2cfb7af1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/921d81a26c41210a4231384c7b71b94d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/921d81a26c41210a4231384c7b71b94d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/efe9fee6696192b67943e51cb717af95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/efe9fee6696192b67943e51cb717af95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/5c052718f3388b6ee75707b7b1f5f63f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/5c052718f3388b6ee75707b7b1f5f63f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/a9e89de9c1a9d0ccaf08747be59aaaa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/a9e89de9c1a9d0ccaf08747be59aaaa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/f9d088dec67ba94f0811d3473f4aab4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/f9d088dec67ba94f0811d3473f4aab4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/3617020d8f694932b2af29a8d7c30f61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/3617020d8f694932b2af29a8d7c30f61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/8acb825ada6516e192de9604dbaae802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/8acb825ada6516e192de9604dbaae802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/73a2a41c0803016f2a32489d405cffd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/73a2a41c0803016f2a32489d405cffd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/3fd2d8ef3ba9ca9fe28240c8680924f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/3fd2d8ef3ba9ca9fe28240c8680924f4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/24682a1698564d8d149df79e2ed4a379/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/24682a1698564d8d149df79e2ed4a379/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/94cae63d972bc571a8a9e21833f58276/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/94cae63d972bc571a8a9e21833f58276/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/1ef6ec6700be12a95840edb39a293ea6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/1ef6ec6700be12a95840edb39a293ea6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/cf3218f817ab02c5364cae1a3d7e5c81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/cf3218f817ab02c5364cae1a3d7e5c81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/ff6fd34749f6a27e555a31a381f878e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bort/.gradle/caches/transforms-2/files-2.1/ff6fd34749f6a27e555a31a381f878e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/7771ef7b0c1a3d64bb9b28506aa0ea93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/7771ef7b0c1a3d64bb9b28506aa0ea93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/98d2b05ed8dbffa6f41813732cbeac79/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/98d2b05ed8dbffa6f41813732cbeac79/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/785933a9d18985881468b90c2868b8f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/785933a9d18985881468b90c2868b8f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/3e886a5ab21fa5d9a651c7f219fe8b6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bort/.gradle/caches/transforms-2/files-2.1/3e886a5ab21fa5d9a651c7f219fe8b6e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/src/main/AndroidManifest.xml

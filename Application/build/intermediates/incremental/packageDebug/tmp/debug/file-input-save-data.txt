@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu May 06 11:37:07 PDT 2021
+0.baseType=DIRECTORY
+0.base=/Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

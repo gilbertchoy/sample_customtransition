@@ -1,0 +1,4 @@
+#Thu May 06 11:37:07 PDT 2021
+base.0=/Users/bort/androidprojects/sample_animations/animation-samples/CustomTransition/Application/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
